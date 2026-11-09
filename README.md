@@ -155,5 +155,13 @@ Questions to ask any POS vendor — and check in the free trial:
 RAWA includes JoFotara in every plan (200 / 400 / 600 JOD a year) and has a 7-day free trial without a card:
 <https://rawaerp.com/register>. More: <https://rawaerp.com/guide/pos-with-jofotara-jordan>.
 
+## Further reading
+
+- [Reference architecture paper (Telegraph)](https://telegra.ph/Designing-a-POS-for-Jordans-JoFotara-e-invoicing-a-reference-architecture-11-09)
+- [Gist: JoFotara send queue + minimal XML](https://gist.github.com/rawaerp/506cfe865f04ab62a73ff8f3474173ea)
+- [Research portal](https://rawaerp.github.io/)
+- [10 criteria for choosing a restaurant POS in Jordan](https://rawaerp.com/guide/restaurant-pos-jordan-10-criteria)
+- [Measurements and architecture comparison](https://github.com/rawaerp/jordan-restaurant-pos-benchmark)
+
 ---
 Licence: text CC BY 4.0, code MIT. Corrections welcome — open an issue or a pull request.
